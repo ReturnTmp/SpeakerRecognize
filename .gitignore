@@ -1,0 +1,7 @@
+.idea
+__pycache__
+
+checkpoints/model_15000_1.04240.h5
+
+datasets/_ALL_
+datasets/_ALL_.rar
